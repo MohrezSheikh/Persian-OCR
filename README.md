@@ -1,1 +1,1 @@
-# Persian-OCR-Using-YOLO-v5
+# Persian-OCR
